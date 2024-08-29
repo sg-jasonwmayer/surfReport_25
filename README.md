@@ -1,4 +1,4 @@
-# surfReport_25
+# surfReport 25
 Angular Surf Report Localized using NOAA Surf API
 
 # SurfReport
