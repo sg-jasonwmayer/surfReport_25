@@ -1,5 +1,5 @@
 # surf Report
-Angular Surf Report Localized • NOAA Surf API
+Angular Surf Report Localized NOAA Surf API
 # Surf Report
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 96.1.3.
 
